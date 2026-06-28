@@ -37,7 +37,7 @@ flask-mysql-project/
 ---
 
 # 🏗️ Project Architecture
-
+![image link](https://github.com/nikunjdaa-sit/Flask-MySQL-Docker-Compose/blob/78bfe09e92b95252108bb447bf133ff39301e8c1/flask_mysql_docker_architecture%20(1).png)
 
 # 📄 File Description
 
@@ -380,36 +380,30 @@ Wait a few seconds or restart using:
 docker compose up
 ```
 # 📷 Screenshots
+|Docker Build|
+![image link](https://github.com/nikunjdaa-sit/Flask-MySQL-Docker-Compose/blob/78bfe09e92b95252108bb447bf133ff39301e8c1/Docker-build.png)
 
-You can add screenshots here.
+|Docker Compose|
+![image link](https://github.com/nikunjdaa-sit/Flask-MySQL-Docker-Compose/blob/78bfe09e92b95252108bb447bf133ff39301e8c1/Docker-compose.png)
 
-```
-screenshots/
-│
-├── project-structure.png
-├── docker-build.png
-├── docker-compose-up.png
-├── browser-output.png
-└── docker-ps.png
-```
+|Docker Desktop|
+![imake link](https://github.com/nikunjdaa-sit/Flask-MySQL-Docker-Compose/blob/78bfe09e92b95252108bb447bf133ff39301e8c1/Docker-desktop.png)
 
-Example:
+|Docker Images|
+![image link](https://github.com/nikunjdaa-sit/Flask-MySQL-Docker-Compose/blob/78bfe09e92b95252108bb447bf133ff39301e8c1/Docker-images.png)
 
-```md
-## Docker Build
+|Docker ps|
+![image link](https://github.com/nikunjdaa-sit/Flask-MySQL-Docker-Compose/blob/78bfe09e92b95252108bb447bf133ff39301e8c1/Docker-ps.png)
 
-![Docker Build](screenshots/docker-build.png)
+|Dockerfile|
+![image link](https://github.com/nikunjdaa-sit/Flask-MySQL-Docker-Compose/blob/78bfe09e92b95252108bb447bf133ff39301e8c1/Dockerfile.png)
 
-## Running Containers
+|Flask Code|
+![image link](https://github.com/nikunjdaa-sit/Flask-MySQL-Docker-Compose/blob/78bfe09e92b95252108bb447bf133ff39301e8c1/Flask-code.png)
 
-![Docker PS](screenshots/docker-ps.png)
+|Application Output|
+![image link](https://github.com/nikunjdaa-sit/Flask-MySQL-Docker-Compose/blob/78bfe09e92b95252108bb447bf133ff39301e8c1/Application-output.png)
 
-## Browser Output
-
-![Output](screenshots/browser-output.png)
-```
-
----
 
 # 🤝 Contributing
 
@@ -433,5 +427,5 @@ Cloud & DevOps Learner
 
 GitHub: https://github.com/nikunjdaa-sit
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: www.linkedin.com/in/nikunj-kumar-6a310b419
 
